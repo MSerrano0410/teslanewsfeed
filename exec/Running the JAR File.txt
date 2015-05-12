@@ -1,0 +1,17 @@
+To run the TeslaNewsFeed.jar file, please run it as such on a command prompt or terminal window:
+
+TeslaNewsFeed.jar [URL], [output directory(optional)].
+
+The URL must be in the http://something.com/arguments.html format; the project includes the following:
+
+- jUnit test cases for sample RSS feed URLs.
+- copious comments and descriptions of classes and methods.
+- error checking for URLs and formats.
+
+I've also included, along with the .jar file, a .zip folder with some of the source code; the libraries I've used are in the lib folder, while my actual source code is in the src folder.
+
+I've also uploaded this project to my Github account, and am happy to provide the link to that at your request.
+
+Creator: Marvin R. Serrano
+Email: mserrano0410@gmail.com
+Phone number: 571-499-3359
